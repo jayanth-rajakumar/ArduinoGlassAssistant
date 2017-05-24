@@ -1,7 +1,5 @@
 # ArduinoGlassAssistant
 
-(under construction)
-
 
 Android app to interface an Android device and a google glass inspired device powered by an Arduino.
 
