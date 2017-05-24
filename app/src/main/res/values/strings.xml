@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Arduino Glass Assistant</string>
+    <string name="google_place_api">AIzaSyAf-aGyyuIIv8mA1Ah34zbWl_ccQm5DEhA</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
